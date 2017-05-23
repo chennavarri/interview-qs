@@ -1,5 +1,6 @@
 # interview-qs
 random collection of interview questions
+[2. Google(90)](#google)
 [Credit to source: http://www.learn4master.com/interview-questions/leetcode/leetcode-problems-classified-by-company]
 
 # LinkedIn(39)
@@ -44,7 +45,7 @@ random collection of interview questions
 - 311 Sparse Matrix Multiplication 47.2% Medium
 - 339 Nested List Weight Sum 54.7% Easy
 
-# Google(90)
+# 2. Google(90)
 - 4 Median of Two Sorted Arrays 18.6% Hard
 - 10 Regular Expression Matching 22.0% Hard
 - 17 Letter Combinations of a Phone Number 28.6% Medium
