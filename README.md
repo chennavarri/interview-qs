@@ -1,5 +1,12 @@
 # interview-qs
 random collection of interview questions
+
+[2. Google(90)](#google)
+
+[Uber(42)](#uber(42))
+
+[4. test3](#4.-test3)
+
 [Credit to source: http://www.learn4master.com/interview-questions/leetcode/leetcode-problems-classified-by-company]
 
 # LinkedIn(39)
@@ -44,7 +51,7 @@ random collection of interview questions
 - 311 Sparse Matrix Multiplication 47.2% Medium
 - 339 Nested List Weight Sum 54.7% Easy
 
-# Google(90)
+# 2. Google(90)
 - 4 Median of Two Sorted Arrays 18.6% Hard
 - 10 Regular Expression Matching 22.0% Hard
 - 17 Letter Combinations of a Phone Number 28.6% Medium
@@ -135,6 +142,12 @@ random collection of interview questions
 - 336 Palindrome Pairs 19.5% Hard
 - 340 Longest Substring with At Most K Distinct Characters 37.2% Hard
 - 341 Flatten Nested List Iterator 19.8% Medium
+
+# 3. Just Test
+  Just testing link
+
+# 4. test3
+  test3
 
 # Uber(42)
 - 1 Two Sum 23.0% Easy
